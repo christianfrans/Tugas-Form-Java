@@ -6,7 +6,6 @@
 package latihanformjava2;
 
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 import javax.swing.JOptionPane;
 import latihanformjava2.Function.ProgramLogic;
